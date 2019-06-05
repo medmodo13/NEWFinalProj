@@ -1,3 +1,3 @@
 public interface PerfectSquare{
-    public boolean perfectSquare(int perfectSquare);
+    public boolean perfectSquare(double perfectSquare);
 }
