@@ -1,0 +1,12 @@
+public class PSRunner
+{
+
+
+   public static void main(String args[])
+   {
+
+       PerfectSquare ps = (double perfectSquaree)-> ((Math.sqrt(perfectSquaree) - Math.floor(Math.sqrt(perfectSquaree))) == 0);
+
+      System.out.println(ps.perfectSquare(64.0));
+   }
+}
