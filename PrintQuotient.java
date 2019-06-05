@@ -1,12 +1,6 @@
-public interface PrintQuotient{
-  public static void findquotient(float a, float b){
-    
-    
-    
-  
-  }
+public interface PrintQuotient
+{
 
-
-
+    public void findQuotient(float a, float b);
 
 }
